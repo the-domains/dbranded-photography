@@ -1,18 +1,28 @@
-analytics: {}
+name: DBranded Photography
+favicon: null
+layout_spectrum: 0.030405
+typography_spectrum: 0.608108
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 1
-  lightness: 0.29054
+    - '#000000'
+    - '#ffffff'
+    - '#d4d4d4'
+    - '#333333'
+    - '#7b7b7b'
+  brandStrength: 0.6875
+  lightness: 0.4375
+  saturation: 0.5
   rhythmicContrast: 0.77027
-  saturation: 0.886764
-cta: {}
-layout_spectrum: 0.030405
-name: DBranded Photography
-opengraph: {}
 purpose: []
-typography_spectrum: 0.608108
