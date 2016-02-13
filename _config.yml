@@ -1,20 +1,4 @@
-name: DBranded Photography
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.55196
-title: DBranded Photography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
@@ -22,8 +6,13 @@ color:
     - '#d4d4d4'
     - '#333333'
     - '#7b7b7b'
-  brandStrength: 0.6875
+  brandStrength: 0.818693
   lightness: 0.4375
-  saturation: 0.5
   rhythmicContrast: 0.77027
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.032657
+name: DBranded Photography
+opengraph: {}
 purpose: []
+typography_spectrum: 0.55196
