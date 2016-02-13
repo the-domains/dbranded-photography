@@ -6,12 +6,12 @@ color:
     - '#d4d4d4'
     - '#333333'
     - '#7b7b7b'
-  brandStrength: 0.818693
+  brandStrength: 0.656531
   lightness: 0.4375
   rhythmicContrast: 0.77027
   saturation: 0
 cta: {}
-layout_spectrum: 0.078828
+layout_spectrum: 1
 name: DBranded Photography
 opengraph: {}
 purpose: []
