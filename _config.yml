@@ -6,9 +6,9 @@ color:
     - '#d4d4d4'
     - '#333333'
     - '#7b7b7b'
-  brandStrength: 0.656531
-  lightness: 0.4375
-  rhythmicContrast: 0.77027
+  brandStrength: 0
+  lightness: 0.487612
+  rhythmicContrast: 0
   saturation: 0
 cta: {}
 layout_spectrum: 0.997747
